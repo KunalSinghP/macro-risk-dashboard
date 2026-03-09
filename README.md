@@ -13,6 +13,9 @@ An interactive **Streamlit dashboard** was built to visualize and analyze these 
 
 ---
 
+##Live Dashboard
+https://macro-risk-dashboard-53dkwz987sd2dcijfxkbze.streamlit.app/
+
 ## Research Questions
 
 This project explores the following questions:
