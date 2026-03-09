@@ -10,7 +10,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
 
-st.title("📊 Nifty Macro Dashboard")
+st.title("📊 Crude Oil Impact on Nifty")
 
 # --------------------------------
 # Download Data
@@ -329,5 +329,6 @@ fig = px.bar(
 importance,
 title="Feature Importance"
 )
+
 
 st.plotly_chart(fig)
